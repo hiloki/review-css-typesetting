@@ -282,7 +282,7 @@ table {
     @top-left {
     /* 本当は現在の深さ1の見出しを出したい */
     /* かつ、sectionの1ページ目だったら出したくない */
-    content: "Re:VIEW+CSS組版やっていき";
+    content: "柴犬でもわかるFLOCSS";
     vertical-align: bottom;
     border-bottom: solid 1px black; 
   }
